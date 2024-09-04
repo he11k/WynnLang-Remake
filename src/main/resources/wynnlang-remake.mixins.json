@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.heliks.wynnlang.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientConnectionInvoker",
+    "ClientConnectionMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

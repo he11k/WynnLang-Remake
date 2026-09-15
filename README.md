@@ -1,1 +1,1 @@
-Mod to translate server wynncraft to other languages.
+Mod to translate quests on minecraft server wynncraft to russian language.
